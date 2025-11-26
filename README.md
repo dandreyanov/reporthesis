@@ -15,6 +15,8 @@ python3 junit_to_html.py schemathesis-junit.xml -o reporthesis.html
 open reporthesis.html
 ```
 
+🔗 Живой пример: [https://dandreyanov.github.io/reporthesis/](https://dandreyanov.github.io/reporthesis/)
+
 ### Требования
 - Python 3.8+
 - JUnit XML от Schemathesis (CLI или pytest-плагин)
@@ -33,6 +35,8 @@ Reporthesis turns [Schemathesis](https://schemathesis.readthedocs.io/en/stable/)
 python3 junit_to_html.py schemathesis-junit.xml -o reporthesis.html
 open reporthesis.html
 ```
+
+🔗 Live demo: [https://dandreyanov.github.io/reporthesis/](https://dandreyanov.github.io/reporthesis/)
 
 ### Requirements
 - Python 3.8+
